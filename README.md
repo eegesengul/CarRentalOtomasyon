@@ -16,7 +16,7 @@
 
 ## Java UML Diagramı:
 <p align="center">
-  <img src="https://github.com/eegesengul/CarRentalOtomasyon/assets/114806398/18b29faa-c288-4221-9f76-381829d32309" alt="Java UML Diagramı" width="70%" height="70%">
+  <img src="https://github.com/eegesengul/CarRentalOtomasyon/assets/114806398/76b4ddca-5c91-4565-86cd-2e847b3ab013" alt="Java UML Diagramı" width="70%" height="70%">
 </p>
 
 ---
